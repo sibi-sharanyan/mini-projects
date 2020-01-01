@@ -1,0 +1,7 @@
+.cont {
+    display: flex;
+    justify-content: space-evenly  ;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+}
