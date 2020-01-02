@@ -19,5 +19,11 @@
 }
 
 img {
-    width: 30rem;
+    width: 300px;
+}
+
+
+.opa {
+    opacity: 0;
+    width: 10px;
 }
