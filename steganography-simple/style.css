@@ -1,0 +1,19 @@
+.cont {
+    display: flex;
+    height: 90vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.img-cont {
+    margin-top: 5rem;
+    display: flex;
+
+}
+
+.img1 {
+    margin-right: 15rem;
+    margin-bottom: 10rem;
+}
